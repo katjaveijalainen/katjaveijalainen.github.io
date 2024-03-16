@@ -5,6 +5,7 @@ body {
 }
 
 
+
 .topnav {
   overflow: hidden;
   background-color: #333;
@@ -69,4 +70,7 @@ footer {
   width: 1035px;
   border: 15px solid green;
 
+}
+@media only screen and (max-width: 768px) {
+    
 }
