@@ -1,0 +1,72 @@
+body {
+  font-family: Raleway;
+  font-size: 16;
+  background-color: #BFDCCF;
+}
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  position: relative;
+  width: 1055px;
+}
+
+.topnav #myLinks {
+  display: none;
+}
+
+.topnav a {
+  color: black;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
+
+.topnav a.icon {
+  background: white;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.active {
+  background-color: #BFDCCF;
+  color: black;
+}
+h1 {
+  color: black;
+  font-family: Playfair Display;
+  font-size: 36px;
+
+}
+
+
+p {
+    color:black;
+    font-family: Raleway;
+    font-size: 16px;
+  
+}
+div {
+  background-color: white;
+  width: 1040px;
+  border: 15px solid green;
+  margin: 10px;
+  left: 45px;
+}
+footer {
+  padding: 10px;
+  margin: 10px;
+  background-color: #BFDCCF;
+  width: 1035px;
+  border: 15px solid green;
+
+}
