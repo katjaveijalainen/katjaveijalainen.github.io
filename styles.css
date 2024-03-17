@@ -53,7 +53,7 @@ body {
 h1 {
   color: black;
   font-family: Playfair Display;
-  font-size: 36px;
+
 
 }
 
@@ -61,7 +61,7 @@ h1 {
 p {
     color:black;
     font-family: Raleway;
-    font-size: 16px;
+
   
 }
 div {
@@ -121,6 +121,8 @@ footer {
   .col-10 {width: 83.33%;}
   .col-11 {width: 91.66%;}
   .col-12 {width: 100%;}
+  h1 {font-size: 36px; }
+  p {font-size: 16px; }
 }
 
 
